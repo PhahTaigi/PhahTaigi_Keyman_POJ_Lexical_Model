@@ -12,6 +12,7 @@ PhahTaigi POJ Keyman Keyboard Lexical Model
 
 Links
 -----
+* Source Code: [https://github.com/PhahTaigi/PhahTaigi_POJ_Keyman_Keyboard_Lexical_Model](https://github.com/PhahTaigi/PhahTaigi_POJ_Keyman_Keyboard_Lexical_Model)
 
 Supported Platforms
 -------------------
