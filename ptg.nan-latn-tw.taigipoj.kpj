@@ -10,19 +10,19 @@
   <Files>
     <File>
       <ID>id_583e1642e8209a716b4f7c0fde2a8333</ID>
-      <Filename>ngoo_kabeng.nan-latn-tw.taigi_poj.model.ts</Filename>
-      <Filepath>source\ngoo_kabeng.nan-latn-tw.taigi_poj.model.ts</Filepath>
+      <Filename>ptg.nan-latn-tw.taigipoj.model.ts</Filename>
+      <Filepath>source\ptg.nan-latn-tw.taigipoj.model.ts</Filepath>
       <FileVersion>1.0</FileVersion>
       <FileType>.ts</FileType>
     </File>
     <File>
       <ID>id_800e6ed1407048f016bb7d414bc7c216</ID>
-      <Filename>ngoo_kabeng.nan-latn-tw.taigi_poj.model.kps</Filename>
-      <Filepath>source\ngoo_kabeng.nan-latn-tw.taigi_poj.model.kps</Filepath>
+      <Filename>ptg.nan-latn-tw.taigipoj.model.kps</Filename>
+      <Filepath>source\ptg.nan-latn-tw.taigipoj.model.kps</Filepath>
       <FileVersion>1.0</FileVersion>
       <FileType>.kps</FileType>
       <Details>
-        <Name>taigi_poj</Name>
+        <Name>PhahTaigi POJ Keyman Keyboard Lexical Model</Name>
         <Copyright>© 2020 Ngô͘ Ka-bêng</Copyright>
         <Version>1.0</Version>
       </Details>
@@ -50,15 +50,15 @@
     </File>
     <File>
       <ID>id_c9143924fc8145f3c7a9bdd20bef14a3</ID>
-      <Filename>ngoo_kabeng.nan-latn-tw.taigi_poj.model_info</Filename>
-      <Filepath>ngoo_kabeng.nan-latn-tw.taigi_poj.model_info</Filepath>
+      <Filename>ptg.nan-latn-tw.taigipoj.model_info</Filename>
+      <Filepath>ptg.nan-latn-tw.taigipoj.model_info</Filepath>
       <FileVersion></FileVersion>
       <FileType>.model_info</FileType>
     </File>
     <File>
-      <ID>id_1e3f5acea80fbfb104bdc36c587dbfe6</ID>
-      <Filename>ngoo_kabeng.nan-latn-tw.taigi_poj.model.js</Filename>
-      <Filepath>source\..\build\ngoo_kabeng.nan-latn-tw.taigi_poj.model.js</Filepath>
+      <ID>id_c3eeb85cb5e1d9772dda9bff98d75a2d</ID>
+      <Filename>ptg.nan-latn-tw.taigipoj.model.js</Filename>
+      <Filepath>source\..\build\ptg.nan-latn-tw.taigipoj.model.js</Filepath>
       <FileVersion></FileVersion>
       <FileType>.js</FileType>
       <ParentFileID>id_800e6ed1407048f016bb7d414bc7c216</ParentFileID>

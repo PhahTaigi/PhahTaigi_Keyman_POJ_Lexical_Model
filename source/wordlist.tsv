@@ -1,5 +1,6 @@
 ﻿#
 # PhahTaigi POJ Keyman Keyboard Lexical Model 1.0
+# Build with the words from Tâi-ji̍t Tōa-sû-tián
 #
 # This is an example tab-separated wordlist file that can be edited in a spreadsheet
 # program or regenerated from a wordlist tool. See lexical model documentation at 
@@ -8,7 +9,7 @@
 # Columns
 # =======
 # WORD	FREQUENCY	(Optional)NOTES
-#
+# 
 chhá	29
 chia̍h	21
 sim	17

@@ -1,7 +1,7 @@
 /*
-  taigi_poj 1.0
+  PhahTaigi POJ Keyman Keyboard Lexical Model 1.0
 
-  Tai-gi (Taiwanese) Pe?h-?e-j? lexical model.*/
+  Tai-gi (Taiwanese) Pe̍h-ōe-jī lexical model.*/
 
 const source: LexicalModelSource = {
   format: 'trie-1.0',

@@ -8,7 +8,9 @@ Version 1.0
 Description
 -----------
 
-PhahTaigi POJ Keyman Keyboard Lexical Model
+PhahTaigi POJ Keyman Keyboard Lexical Model.
+
+For keyboard you need to use with, please install [PhahTaigi POJ Keyman Keyboard](https://keyman.com/keyboards/taigipoj).
 
 Links
 -----
