@@ -1,7 +1,7 @@
 PhahTaigi POJ Keyman Keyboard Lexical Model
 ===================
 
-© 2020 Ngô͘ Ka-bêng
+© 2020 PhahTaigi
 
 Version 1.0
 
